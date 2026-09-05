@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#6b4eff"/><stop offset="1" stop-color="#22a6b3"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" fill="#111722"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="url(#g)">TH</text>
+</svg>
